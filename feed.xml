@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmuvw.com/feed.xml" rel="self" />
     <link href="https://bmuvw.com" />
-    <updated>2022-09-18T17:08:43+04:30</updated>
+    <updated>2022-09-18T20:28:00+04:30</updated>
     <author>
         <name>saman</name>
     </author>
@@ -408,11 +408,11 @@
         <link href="https://bmuvw.com/world/"/>
         <id>https://bmuvw.com/world/</id>
 
-        <updated>2022-09-15T05:59:21+04:30</updated>
+        <updated>2022-09-18T20:28:00+04:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmuvw.com/media/posts/3/photo_2020-07-07-00.14.52.jpg" alt="bmuvw" />
-                    model previous startup featured model we are free good friendship Things like fashion get hard when you try&hellip;
+                    model previous startup featured model we are free good friendship big blue button wanted for love Things like&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -446,6 +446,16 @@
         <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/287555807_621717209640744_5123205871949985565_n.webp-thumbnail.jpg" height="768" width="768" alt="" />
       </a>
       <figcaption>good friendship</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://bmuvw.com/media/posts/3/gallery/marcmarzagasula.jpg" data-size="640x1136">
+        <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/marcmarzagasula-thumbnail.jpg" height="1136" width="640" alt="blue ocean" />
+      </a>
+      <figcaption>big blue button</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://bmuvw.com/media/posts/3/gallery/photo_2021-12-01_05-01-27.jpg" data-size="460x760">
+        <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/photo_2021-12-01_05-01-27-thumbnail.jpg" height="760" width="460" alt="walve software" />
+      </a>
+      <figcaption>wanted for love</figcaption>
     </figure>
     </div>
   </div>
