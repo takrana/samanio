@@ -22,8 +22,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-09-18T17:08:43+04:30",
-            "date_modified": "2022-09-18T17:08:43+04:30"
+            "date_published": "2022-09-18T05:38:43-07:00",
+            "date_modified": "2022-09-18T05:38:43-07:00"
         },
         {
             "id": "https://bmuvw.com/samio/",
@@ -37,8 +37,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-09-15T14:50:55+04:30",
-            "date_modified": "2022-09-16T17:44:11+04:30"
+            "date_published": "2022-09-15T03:20:55-07:00",
+            "date_modified": "2022-09-16T06:14:11-07:00"
         },
         {
             "id": "https://bmuvw.com/ask/",
@@ -52,8 +52,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-09-15T14:50:12+04:30",
-            "date_modified": "2022-09-16T17:43:34+04:30"
+            "date_published": "2022-09-15T03:20:12-07:00",
+            "date_modified": "2022-09-16T06:13:34-07:00"
         },
         {
             "id": "https://bmuvw.com/mo/",
@@ -67,23 +67,23 @@
             },
             "tags": [
             ],
-            "date_published": "2022-09-14T19:55:02+04:30",
-            "date_modified": "2022-09-16T17:42:58+04:30"
+            "date_published": "2022-09-14T08:25:02-07:00",
+            "date_modified": "2022-09-16T06:12:58-07:00"
         },
         {
             "id": "https://bmuvw.com/im/",
             "url": "https://bmuvw.com/im/",
             "title": "Work for him",
-            "summary": "branding and other job related material place in here saman ghiasi",
-            "content_html": "<p>branding and other job related material place in here</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://bmuvw.com/media/posts/11/gallery/riku_redpanda316_1660544382_1.jpg\" data-size=\"1440x1800\"><img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/11/gallery/riku_redpanda316_1660544382_1-thumbnail.jpg\" alt=\"riku\" width=\"768\" height=\"960\"></a>\n<figcaption>saman ghiasi</figcaption>\n</figure>\n</div></div>",
+            "summary": " brands consisting of my logo: saman ghiasi royalty the man",
+            "content_html": "<h5> brands consisting of my logo:</h5>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://bmuvw.com/media/posts/11/gallery/riku_redpanda316_1660544382_1.jpg\" data-size=\"1440x1800\"><img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/11/gallery/riku_redpanda316_1660544382_1-thumbnail.jpg\" alt=\"riku\" width=\"768\" height=\"960\"></a>\n<figcaption>saman ghiasi</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://bmuvw.com/media/posts/11/gallery/lucas.dean.royalty_2900612562783347967_1651216042.jpg\" data-size=\"1125x2000\"><img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/11/gallery/lucas.dean.royalty_2900612562783347967_1651216042-thumbnail.jpg\" alt=\"lucas\" width=\"768\" height=\"1365\"></a>\n<figcaption>royalty</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://bmuvw.com/media/posts/11/gallery/photo_5854803477383986046_w.jpg\" data-size=\"1080x1350\"><img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/11/gallery/photo_5854803477383986046_w-thumbnail.jpg\" alt=\"mylo\" width=\"768\" height=\"960\"></a>\n<figcaption>the man</figcaption>\n</figure>\n</div></div>",
             "image": "https://bmuvw.com/media/posts/11/photo_2020-08-26-15.14.10.png",
             "author": {
                 "name": "saman"
             },
             "tags": [
             ],
-            "date_published": "2022-09-08T09:09:06+04:30",
-            "date_modified": "2022-09-16T17:43:19+04:30"
+            "date_published": "2022-09-07T21:39:06-07:00",
+            "date_modified": "2022-09-18T22:30:00-07:00"
         },
         {
             "id": "https://bmuvw.com/come-or-invite/",
@@ -97,8 +97,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-09-08T08:06:30+04:30",
-            "date_modified": "2022-09-15T06:23:13+04:30"
+            "date_published": "2022-09-07T20:36:30-07:00",
+            "date_modified": "2022-09-14T18:53:13-07:00"
         },
         {
             "id": "https://bmuvw.com/sesame/",
@@ -112,8 +112,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-07-24T06:56:11+04:30",
-            "date_modified": "2022-09-17T17:56:36+04:30"
+            "date_published": "2022-07-23T19:26:11-07:00",
+            "date_modified": "2022-09-17T06:26:36-07:00"
         },
         {
             "id": "https://bmuvw.com/samig/",
@@ -127,8 +127,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-07-14T09:19:13+04:30",
-            "date_modified": "2022-09-16T17:43:41+04:30"
+            "date_published": "2022-07-13T21:49:13-07:00",
+            "date_modified": "2022-09-16T06:13:41-07:00"
         },
         {
             "id": "https://bmuvw.com/arad-javaheri-nik/",
@@ -142,13 +142,13 @@
             },
             "tags": [
             ],
-            "date_published": "2022-07-02T08:29:37+04:30",
-            "date_modified": "2022-09-08T08:47:44+04:30"
+            "date_published": "2022-07-01T20:59:37-07:00",
+            "date_modified": "2022-09-07T21:17:44-07:00"
         },
         {
-            "id": "https://bmuvw.com/world/",
-            "url": "https://bmuvw.com/world/",
-            "title": "Fashion",
+            "id": "https://bmuvw.com/fashion/",
+            "url": "https://bmuvw.com/fashion/",
+            "title": "KFC",
             "summary": "model previous startup featured model we are free good friendship big blue button wanted for love Things like&hellip;",
             "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--full\">\n    <div class=\"gallery\" data-columns=\"5\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://bmuvw.com/media/posts/3/gallery/makar_permyakov_1654427265_3-2022_06_07-05_41_51-UTC.jpg\" data-size=\"1080x1080\">\n        <img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/3/gallery/makar_permyakov_1654427265_3-2022_06_07-05_41_51-UTC-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"niza\" />\n      </a>\n      <figcaption>model</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://bmuvw.com/media/posts/3/gallery/Screen-Shot-2020-09-13-at-9.11.57-AM-2.png\" data-size=\"412x430\">\n        <img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/3/gallery/Screen-Shot-2020-09-13-at-9.11.57-AM-2-thumbnail.png\" height=\"430\" width=\"412\" alt=\"belo\" />\n      </a>\n      <figcaption>previous startup</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://bmuvw.com/media/posts/3/gallery/294584393_571776637939626_6388506024630410344_n.jpeg\" data-size=\"1080x1080\">\n        <img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/3/gallery/294584393_571776637939626_6388506024630410344_n-thumbnail.jpeg\" height=\"768\" width=\"768\" alt=\"\" />\n      </a>\n      <figcaption>featured model</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://bmuvw.com/media/posts/3/gallery/eunchan2013_1659693641_4.jpg\" data-size=\"1363x1707\">\n        <img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/3/gallery/eunchan2013_1659693641_4-thumbnail.jpg\" height=\"962\" width=\"768\" alt=\"\" />\n      </a>\n      <figcaption>we are free</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://bmuvw.com/media/posts/3/gallery/287555807_621717209640744_5123205871949985565_n.webp.jpg\" data-size=\"1080x1080\">\n        <img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/3/gallery/287555807_621717209640744_5123205871949985565_n.webp-thumbnail.jpg\" height=\"768\" width=\"768\" alt=\"\" />\n      </a>\n      <figcaption>good friendship</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://bmuvw.com/media/posts/3/gallery/marcmarzagasula.jpg\" data-size=\"640x1136\">\n        <img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/3/gallery/marcmarzagasula-thumbnail.jpg\" height=\"1136\" width=\"640\" alt=\"blue ocean\" />\n      </a>\n      <figcaption>big blue button</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://bmuvw.com/media/posts/3/gallery/photo_2021-12-01_05-01-27.jpg\" data-size=\"460x760\">\n        <img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/3/gallery/photo_2021-12-01_05-01-27-thumbnail.jpg\" height=\"760\" width=\"460\" alt=\"walve software\" />\n      </a>\n      <figcaption>wanted for love</figcaption>\n    </figure>\n    </div>\n  </div>\n\n  <p>\n    Things like fashion get hard when you try to do your best and this is nice that these nice kids try to make the best photo model in the world by sending their nice work jobs and do so\n  </p>\n\n    <h2 id=\"bmw-kids-studio-amp-fan\">\n      BMW kids' studio &amp; fan\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://www.samanghiasi.com\" target=\"_blank\">\n        <img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/3/3.jpg\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"https://bmuvw.com/media/posts/3/responsive/3-xs.jpg 300w ,https://bmuvw.com/media/posts/3/responsive/3-sm.jpg 480w ,https://bmuvw.com/media/posts/3/responsive/3-md.jpg 768w ,https://bmuvw.com/media/posts/3/responsive/3-lg.jpg 1024w ,https://bmuvw.com/media/posts/3/responsive/3-xl.jpg 1360w\"  height=\"180\" width=\"320\" alt=\"www.samanghiasi.com\" />\n      </a>\n      <figcaption>check my website for a link to my social and also a contact form to send me media of you</figcaption>\n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <a href=\"https://www.shazde.shop/contact-us.html\" target=\"_blank\">\n        <img loading=\"lazy\" src=\"https://bmuvw.com/media/posts/3/4.jpg\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"https://bmuvw.com/media/posts/3/responsive/4-xs.jpg 300w ,https://bmuvw.com/media/posts/3/responsive/4-sm.jpg 480w ,https://bmuvw.com/media/posts/3/responsive/4-md.jpg 768w ,https://bmuvw.com/media/posts/3/responsive/4-lg.jpg 1024w ,https://bmuvw.com/media/posts/3/responsive/4-xl.jpg 1360w\"  height=\"180\" width=\"320\" alt=\"shazde shop local store\" />\n      </a>\n      <figcaption>come to my store to visit me and see what we can do together in the coming town</figcaption>\n    </figure>",
             "image": "https://bmuvw.com/media/posts/3/photo_2020-07-07-00.14.52.jpg",
@@ -157,8 +157,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-06-24T17:36:46+04:30",
-            "date_modified": "2022-09-18T20:28:00+04:30"
+            "date_published": "2022-06-24T06:06:46-07:00",
+            "date_modified": "2022-09-18T21:32:39-07:00"
         }
     ]
 }
