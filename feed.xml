@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmuvw.com/feed.xml" rel="self" />
     <link href="https://bmuvw.com" />
-    <updated>2022-09-20T17:03:45+04:30</updated>
+    <updated>2022-09-20T19:28:44+04:30</updated>
     <author>
         <name>saman</name>
     </author>
@@ -424,7 +424,7 @@
         <link href="https://bmuvw.com/fashion/"/>
         <id>https://bmuvw.com/fashion/</id>
 
-        <updated>2022-09-19T09:02:39+04:30</updated>
+        <updated>2022-09-20T19:28:44+04:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmuvw.com/media/posts/3/photo_2020-07-07-00.14.52.jpg" alt="bmuvw" />
@@ -484,19 +484,13 @@
       BMW kids' studio &amp; fan
     </h2>
 
-    <figure class="post__image post__image--center">
-      <a href="https://www.samanghiasi.com" target="_blank">
-        <img loading="lazy" src="https://bmuvw.com/media/posts/3/3.jpg" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://bmuvw.com/media/posts/3/responsive/3-xs.jpg 300w ,https://bmuvw.com/media/posts/3/responsive/3-sm.jpg 480w ,https://bmuvw.com/media/posts/3/responsive/3-md.jpg 768w ,https://bmuvw.com/media/posts/3/responsive/3-lg.jpg 1024w ,https://bmuvw.com/media/posts/3/responsive/3-xl.jpg 1360w"  height="180" width="320" alt="www.samanghiasi.com" />
-      </a>
-      <figcaption>check my website for a link to my social and also a contact form to send me media of you</figcaption>
-    </figure>
+  <p>
+    -are waiting
+  </p>
 
-    <figure class="post__image post__image--center">
-      <a href="https://www.shazde.shop/contact-us.html" target="_blank">
-        <img loading="lazy" src="https://bmuvw.com/media/posts/3/4.jpg" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://bmuvw.com/media/posts/3/responsive/4-xs.jpg 300w ,https://bmuvw.com/media/posts/3/responsive/4-sm.jpg 480w ,https://bmuvw.com/media/posts/3/responsive/4-md.jpg 768w ,https://bmuvw.com/media/posts/3/responsive/4-lg.jpg 1024w ,https://bmuvw.com/media/posts/3/responsive/4-xl.jpg 1360w"  height="180" width="320" alt="shazde shop local store" />
-      </a>
-      <figcaption>come to my store to visit me and see what we can do together in the coming town</figcaption>
-    </figure>
+  <p>
+    Come to <a href="https://shazdeshop.ir">my store</a> to visit me and see what we can do together in the coming town+&nbsp;check <a href="https://www.samanghiasi.ir">my website</a> for a link to my social and also a contact form to send me media of you
+  </p>
             ]]>
         </content>
     </entry>
