@@ -3,12 +3,53 @@
     <title>BMW</title>
     <link href="https://bmuvw.com/feed.xml" rel="self" />
     <link href="https://bmuvw.com" />
-    <updated>2022-09-20T19:28:44+04:30</updated>
+    <updated>2022-09-21T16:23:42+04:30</updated>
     <author>
         <name>saman</name>
     </author>
     <id>https://bmuvw.com</id>
 
+    <entry>
+        <title>Links</title>
+        <author>
+            <name>saman</name>
+        </author>
+        <link href="https://bmuvw.com/links/"/>
+        <id>https://bmuvw.com/links/</id>
+
+        <updated>2022-09-20T20:27:49+04:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bmuvw.com/media/posts/12/boymodelworld_1638635504.jpg" alt="arlan" />
+                    Merch Shop offcial music TV tv online music and go sam per asia and more
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bmuvw.com/media/posts/12/boymodelworld_1638635504.jpg" alt="arlan" />
+                
+  <p>
+    Merch Shop
+  </p>
+
+  <p>
+    offcial music TV
+  </p>
+
+  <p>
+    tv online music and go
+  </p>
+
+  <p>
+    sam per asia
+  </p>
+
+  <p>
+    and more
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>stand in front of darkness</title>
         <author>
@@ -153,24 +194,22 @@
         </content>
     </entry>
     <entry>
-        <title>Merch Shop</title>
+        <title>some text</title>
         <author>
             <name>saman</name>
         </author>
         <link href="https://bmuvw.com/ask/"/>
         <id>https://bmuvw.com/ask/</id>
 
-        <updated>2022-09-16T17:43:34+04:30</updated>
+        <updated>2022-09-20T20:28:24+04:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://bmuvw.com/media/posts/1/boymodelworld_1638635504.jpg" alt="" />
-                    buy our merch from www.shazde.shop or visit www.shazdeshop.ir to come to iran and have a meeting in our&hellip;
+                    here is notepad you can add more soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmuvw.com/media/posts/1/boymodelworld_1638635504.jpg" alt="" />
-                <p>buy our merch from <a href="http://www.shazde.shop">www.shazde.shop</a> or visit <a href="http://www.shazdeshop.ir">www.shazdeshop.ir</a> to come to iran and have a meeting in our superstore all pics will be saved and used in great manner for photography and beyond so you can come and have a tea and go or wait for saman to meet you there and discuss for better future and the realm will go on.</p>
+                <p>here is notepad you can add more soon</p>
 
             ]]>
         </content>
@@ -214,11 +253,11 @@
         <link href="https://bmuvw.com/im/"/>
         <id>https://bmuvw.com/im/</id>
 
-        <updated>2022-09-20T17:03:45+04:30</updated>
+        <updated>2022-09-21T16:23:42+04:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmuvw.com/media/posts/11/photo_2020-08-26-15.14.10.png" alt="" />
-                     brands consisting of my logo: saman ghiasi royalty the man thanks to Марк Малик who could send a post&hellip;
+                     brands consisting of my logo: saman ghiasi royalty the man Thanks to Марк Малик I have tried many&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -236,7 +275,8 @@
 <figcaption>the man</figcaption>
 </figure>
 </div></div>
-<p>thanks to <a href="https://boy.bio/mark" rel="nofollow">Марк Малик</a> who could send a post which was deleted after my view it was him in the street walking and i tried to watch but then i saw it is deleted this is nice that even the preview made them want to remove the media from their servers i know you have technical difficulties accessing me but even in the real world this happen when i had a cybercafe i tried to hire some boy but they told him not to come anymore and this happened 3 times with their dad didn't know what happen and i asked the boy and he said idk so please be cute and try more maybe someday limitation removed by the intl union which leads the bigger fans of saman which can not be like you and so jealus</p>
+<figure class="post__image"><img loading="lazy"  src="https://bmuvw.com/media/posts/11/asl.png" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://bmuvw.com/media/posts/11/responsive/asl-xs.png 300w ,https://bmuvw.com/media/posts/11/responsive/asl-sm.png 480w ,https://bmuvw.com/media/posts/11/responsive/asl-md.png 768w ,https://bmuvw.com/media/posts/11/responsive/asl-lg.png 1024w ,https://bmuvw.com/media/posts/11/responsive/asl-xl.png 1360w"  alt="shazdeshop.ir" width="253" height="123"><figcaption>Thanks to <a href="https://boy.bio/mark" rel="nofollow">Марк Малик</a> I have tried many ways to contact you but this is the best please publish</figcaption></figure>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -294,14 +334,14 @@
         </content>
     </entry>
     <entry>
-        <title>Names of you</title>
+        <title>Your name</title>
         <author>
             <name>saman</name>
         </author>
         <link href="https://bmuvw.com/samig/"/>
         <id>https://bmuvw.com/samig/</id>
 
-        <updated>2022-09-16T17:43:41+04:30</updated>
+        <updated>2022-09-20T20:13:29+04:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmuvw.com/media/posts/7/dima.jpg" alt="" />
@@ -412,84 +452,6 @@
 
   <p>
     
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>KFC</title>
-        <author>
-            <name>saman</name>
-        </author>
-        <link href="https://bmuvw.com/fashion/"/>
-        <id>https://bmuvw.com/fashion/</id>
-
-        <updated>2022-09-20T19:28:44+04:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://bmuvw.com/media/posts/3/photo_2020-07-07-00.14.52.jpg" alt="bmuvw" />
-                    model previous startup featured model we are free good friendship big blue button wanted for love Things like&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://bmuvw.com/media/posts/3/photo_2020-07-07-00.14.52.jpg" alt="bmuvw" />
-                
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="5">
-      <figure class="gallery__item">
-      <a href="https://bmuvw.com/media/posts/3/gallery/makar_permyakov_1654427265_3-2022_06_07-05_41_51-UTC.jpg" data-size="1080x1080">
-        <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/makar_permyakov_1654427265_3-2022_06_07-05_41_51-UTC-thumbnail.jpg" height="768" width="768" alt="niza" />
-      </a>
-      <figcaption>model</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://bmuvw.com/media/posts/3/gallery/Screen-Shot-2020-09-13-at-9.11.57-AM-2.png" data-size="412x430">
-        <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/Screen-Shot-2020-09-13-at-9.11.57-AM-2-thumbnail.png" height="430" width="412" alt="belo" />
-      </a>
-      <figcaption>previous startup</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://bmuvw.com/media/posts/3/gallery/294584393_571776637939626_6388506024630410344_n.jpeg" data-size="1080x1080">
-        <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/294584393_571776637939626_6388506024630410344_n-thumbnail.jpeg" height="768" width="768" alt="" />
-      </a>
-      <figcaption>featured model</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://bmuvw.com/media/posts/3/gallery/eunchan2013_1659693641_4.jpg" data-size="1363x1707">
-        <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/eunchan2013_1659693641_4-thumbnail.jpg" height="962" width="768" alt="" />
-      </a>
-      <figcaption>we are free</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://bmuvw.com/media/posts/3/gallery/287555807_621717209640744_5123205871949985565_n.webp.jpg" data-size="1080x1080">
-        <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/287555807_621717209640744_5123205871949985565_n.webp-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      <figcaption>good friendship</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://bmuvw.com/media/posts/3/gallery/marcmarzagasula.jpg" data-size="640x1136">
-        <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/marcmarzagasula-thumbnail.jpg" height="1136" width="640" alt="blue ocean" />
-      </a>
-      <figcaption>big blue button</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://bmuvw.com/media/posts/3/gallery/photo_2021-12-01_05-01-27.jpg" data-size="460x760">
-        <img loading="lazy" src="https://bmuvw.com/media/posts/3/gallery/photo_2021-12-01_05-01-27-thumbnail.jpg" height="760" width="460" alt="walve software" />
-      </a>
-      <figcaption>wanted for love</figcaption>
-    </figure>
-    </div>
-  </div>
-
-  <p>
-    Things like fashion get hard when you try to do your best and this is nice that these nice kids try to make the best photo model in the world by sending their nice work jobs and do so
-  </p>
-
-    <h2 id="bmw-kids-studio-amp-fan">
-      BMW kids' studio &amp; fan
-    </h2>
-
-  <p>
-    -are waiting
-  </p>
-
-  <p>
-    Come to <a href="https://shazdeshop.ir">my store</a> to visit me and see what we can do together in the coming town+&nbsp;check <a href="https://www.samanghiasi.ir">my website</a> for a link to my social and also a contact form to send me media of you
   </p>
             ]]>
         </content>
