@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-09-30T18:04:07-07:00</updated>
+    <updated>2022-10-01T21:25:05-07:00</updated>
     <author>
         <name>saman</name>
     </author>
@@ -246,7 +246,7 @@
         <link href="https://bmw.llc/mo/"/>
         <id>https://bmw.llc/mo/</id>
 
-        <updated>2022-09-30T18:04:07-07:00</updated>
+        <updated>2022-10-01T21:25:05-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/9/300000387_2354674668014376_3843464483340777110_n.jpg" alt="" />
@@ -264,7 +264,12 @@
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/sigal.eytan_1661168414.jpg" data-size="1440x1373"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/sigal.eytan_1661168414-thumbnail.jpg" alt="" width="768" height="732"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/261549310_1281327398996820_3149613037841931791_n.jpg" data-size="1080x1080"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/261549310_1281327398996820_3149613037841931791_n-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/todayisuya.jpg" data-size="1440x1800"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/todayisuya-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/mitya_loves_football_2924808521066446430_7593086502_Moment-2.jpg" data-size="719x965"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/mitya_loves_football_2924808521066446430_7593086502_Moment-2-thumbnail.jpg" alt="" width="719" height="965"></a></figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/mitya_loves_football_2924808521066446430_7593086502_Moment-2.jpg" data-size="719x965"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/mitya_loves_football_2924808521066446430_7593086502_Moment-2-thumbnail.jpg" alt="" width="719" height="965"></a>
+<figcaption>do</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/309226917_797523271494315_2992100374204759571_n.jpg" data-size="1440x1080"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/309226917_797523271494315_2992100374204759571_n-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figcaption>rest</figcaption>
+</figure>
 </div></div>
 <p>آمریکا قصد داشته است حکومت بعدی را خودش بالا بیاورد اما</p>
 <p>نقشه هایشان شکست خورده آنها از همین الان می دانند که برنامه بعدی چیست</p>
