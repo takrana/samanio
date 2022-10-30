@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-10-28T08:46:54+03:30</updated>
+    <updated>2022-10-30T07:40:45+03:30</updated>
     <author>
         <name>saman</name>
     </author>
@@ -54,7 +54,7 @@
         <link href="https://bmw.llc/real/"/>
         <id>https://bmw.llc/real/</id>
 
-        <updated>2022-10-27T18:59:25+03:30</updated>
+        <updated>2022-10-30T04:38:22+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/6/308679584_788860612443001_5541323126002960017_n.jpg" alt="" />
@@ -151,7 +151,12 @@
 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
-      
+      <figure class="gallery__item">
+      <a href="https://bmw.llc/media/posts/6/gallery/313191587_885229269303697_2585958940627287754_n.jpg" data-size="1440x1797">
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/313191587_885229269303697_2585958940627287754_n-thumbnail.jpg" height="958" width="768" alt="to" />
+      </a>
+      <figcaption>vi</figcaption>
+    </figure>
     </div>
   </div>
 
@@ -201,14 +206,14 @@
         </content>
     </entry>
     <entry>
-        <title>some text</title>
+        <title>زن زندگی تنهایی</title>
         <author>
             <name>saman</name>
         </author>
         <link href="https://bmw.llc/ask/"/>
         <id>https://bmw.llc/ask/</id>
 
-        <updated>2022-10-27T18:42:01+03:30</updated>
+        <updated>2022-10-30T07:40:45+03:30</updated>
             <summary>
                 <![CDATA[
                     here is notepad you can add more soon
@@ -339,7 +344,7 @@
         <link href="https://bmw.llc/come-or-invite/"/>
         <id>https://bmw.llc/come-or-invite/</id>
 
-        <updated>2022-10-27T19:22:22+03:30</updated>
+        <updated>2022-10-29T12:19:51+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/10/bogdan.jpg" alt="" />
@@ -362,10 +367,8 @@
 </figure>
 </div></div>
 <p>take a trip to Mashhad to see me or find a way to join me in another way</p>
-<h3>برای من:</h3>
-<p>زن=ازدواج </p>
-<p>زندگی=در زندان </p>
-<p>آزادی=با هم بودن</p>
+<p> </p>
+<p>برای من زن یعنی ازدواج، زندگی یعنی با هم بودن، آزادی یعنی رهایی از زندان</p>
             ]]>
         </content>
     </entry>
@@ -455,35 +458,31 @@
         <link href="https://bmw.llc/arad-javaheri-nik/"/>
         <id>https://bmw.llc/arad-javaheri-nik/</id>
 
-        <updated>2022-10-28T08:26:31+03:30</updated>
+        <updated>2022-10-28T08:48:59+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/5/Ari-joon.jpg" alt="" />
-                    Arad and vlad using boy.bio url shortening service please contact for starting to develop best website Владислав Середа&nbsp;vladislav&hellip;
+                    Arad and vlad was my first attempt send your art to be the next try to make a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://bmw.llc/media/posts/5/Ari-joon.jpg" alt="" />
                 
-    <h4 id="arad-and-vlad">
-      Arad and vlad
+    <h4 id="arad-and-vlad-was-my-first-attempt">
+      Arad and vlad was my first attempt
     </h4>
 
   <p>
-    using boy.bio url shortening service
+    send your art to be the next try to make a site for someone great
   </p>
 
   <p>
-    please contact for starting to develop best website
+    register at boy.bio to remember your allowance&nbsp;
   </p>
 
   <p>
-    Владислав Середа&nbsp;vladislav sereda&nbsp;
-  </p>
-
-  <p>
-    arad javaheri nik
+    
   </p>
             ]]>
         </content>
