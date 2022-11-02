@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-02T12:26:18+03:30</updated>
+    <updated>2022-11-02T12:49:11+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -162,10 +162,10 @@
         <author>
             <name>sam</name>
         </author>
-        <link href="https://bmw.llc/samio/"/>
-        <id>https://bmw.llc/samio/</id>
+        <link href="https://bmw.llc/time/"/>
+        <id>https://bmw.llc/time/</id>
 
-        <updated>2022-11-02T12:26:18+03:30</updated>
+        <updated>2022-11-02T12:47:45+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/4/160040904_527494688221382_1411636069279295395_n.jpg" alt="time" />
@@ -204,28 +204,30 @@
         <link href="https://bmw.llc/ask/"/>
         <id>https://bmw.llc/ask/</id>
 
-        <updated>2022-10-30T07:40:45+03:30</updated>
+        <updated>2022-11-02T12:49:11+03:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://bmw.llc/media/posts/1/FggYTLaWYAAfUGM.jpeg" alt="" />
                     here is notepad you can add more soon
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://bmw.llc/media/posts/1/FggYTLaWYAAfUGM.jpeg" alt="" />
                 <p>here is notepad you can add more soon</p>
 
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Reset I</title>
+        <title>My reset</title>
         <author>
             <name>sam</name>
         </author>
         <link href="https://bmw.llc/ghobooz/"/>
         <id>https://bmw.llc/ghobooz/</id>
 
-        <updated>2022-11-02T12:26:01+03:30</updated>
+        <updated>2022-11-02T12:46:57+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/9/311151493_185908233946877_5839269501543219569_n.jpg" alt="" />
