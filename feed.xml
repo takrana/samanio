@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-02T20:38:48+03:30</updated>
+    <updated>2022-11-03T00:21:13+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -43,24 +43,28 @@
         </content>
     </entry>
     <entry>
-        <title>cyberphotoshoot</title>
+        <title>Cyberphotoshoot</title>
         <author>
             <name>sam</name>
         </author>
         <link href="https://bmw.llc/nom/"/>
         <id>https://bmw.llc/nom/</id>
 
-        <updated>2022-11-02T20:38:48+03:30</updated>
+        <updated>2022-11-03T00:21:13+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/6/308679584_788860612443001_5541323126002960017_n.jpg" alt="" />
-                    1)a camera in a gun 2)a bluetooth shutter when someone push the trigger of the toy gun, the&hellip;
+                    An idea about a toy gun which shoot photo to aim the opponent and track photos till the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://bmw.llc/media/posts/6/308679584_788860612443001_5541323126002960017_n.jpg" alt="" />
                 
+    <h4 id="an-idea-about-a-toy-gun-which-shoot-photo-to-aim-the-opponent-and-track-photos-till-the-end">
+      An idea about a toy gun which shoot photo to aim the opponent and track photos till the end
+    </h4>
+
   <p>
     1)a camera in a gun
   </p>
