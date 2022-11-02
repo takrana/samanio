@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-02T12:55:26+03:30</updated>
+    <updated>2022-11-02T13:21:43+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -204,7 +204,7 @@
         <link href="https://bmw.llc/ask/"/>
         <id>https://bmw.llc/ask/</id>
 
-        <updated>2022-11-02T12:55:26+03:30</updated>
+        <updated>2022-11-02T13:21:43+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/1/FggYTLaWYAAfUGM.jpeg" alt="" />
@@ -214,7 +214,8 @@
         <content type="html">
             <![CDATA[
                     <img src="https://bmw.llc/media/posts/1/FggYTLaWYAAfUGM.jpeg" alt="" />
-                <p>به دلیل فشارهای روانی وارده از دو طرف درگیر، بنده هیچگونه مسؤولیتی در قبال حرفهای حقی که منتشر می شود  ندارم لطفا مسائل خود را جای دیگر پیگیری بفرمائید</p>
+                <p>به دلیل فشارهای روانی وارده از دو طرف درگیر، بنده هیچگونه مسؤولیتی در قبال حرفهای حقی که منتشر می شود<br>ندارم لطفا مسائل خود را جای دیگر پیگیری بفرمائید
+البته بیشتر این ابرازات ناخواسته به خاطر بسته بودن ارتباط در کانالهای مجاز صورت می گیرد</p>
 
             ]]>
         </content>
