@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://bmw.llc/sitemap.xml
+Disallow: /
