@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-08T21:12:54+03:30</updated>
+    <updated>2022-11-10T07:42:17+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://bmw.llc/links/"/>
         <id>https://bmw.llc/links/</id>
+        <media:content url="https://bmw.llc/media/posts/12/boymodelworld_1638635504.jpg" medium="image" />
 
         <updated>2022-11-08T11:25:55+03:30</updated>
             <summary>
@@ -26,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/12/boymodelworld_1638635504.jpg" alt="arlan" />
+                    <p><img src="https://bmw.llc/media/posts/12/boymodelworld_1638635504.jpg" class="type:primaryImage" alt="arlan" /></p>
                 
   <p>
     The best model is who pay me a lot and do what desired for best result and we know that who he is but we try to find 2nd and third so that we have a replace for what needed and this is our goal to do what wanted and this is enough for most so be cute and do nice for rest of life and more ..
@@ -45,6 +46,7 @@
         </author>
         <link href="https://bmw.llc/nom/"/>
         <id>https://bmw.llc/nom/</id>
+        <media:content url="https://bmw.llc/media/posts/6/313887867_1539058449848758_5356790908052224658_n.jpg" medium="image" />
 
         <updated>2022-11-08T21:12:54+03:30</updated>
             <summary>
@@ -55,7 +57,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/6/313887867_1539058449848758_5356790908052224658_n.jpg" alt="" />
+                    <p><img src="https://bmw.llc/media/posts/6/313887867_1539058449848758_5356790908052224658_n.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h4 id="an-idea-about-a-toygun-which-shoot-photo-to-aim-the-opponent-and-i-will-track-submitted-photos-till-the-end-so-that-everyone-get-happy-with-it">
       An idea about a toy-gun which shoot photo to aim the opponent and I will track submitted photos till the end so that everyone get happy with it
@@ -97,32 +99,32 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/304907804_122100317266197_2388068253455345996_n-2.jpg" data-size="1079x1703">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/304907804_122100317266197_2388068253455345996_n-2-thumbnail.jpg" height="1212" width="768" alt="retaliation" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/304907804_122100317266197_2388068253455345996_n-2-thumbnail.jpg" height="1212" width="768" alt="retaliation" >
       </a>
       <figcaption>robots</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/305038242_840356994004163_4837661661533918203_n.jpg" data-size="1170x2080">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/305038242_840356994004163_4837661661533918203_n-thumbnail.jpg" height="1365" width="768" alt="black lotus" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/305038242_840356994004163_4837661661533918203_n-thumbnail.jpg" height="1365" width="768" alt="black lotus" >
       </a>
       <figcaption>from japan</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/d9a26a8e18568cff6cf4c9ffba51ccde.jpg" data-size="555x960">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/d9a26a8e18568cff6cf4c9ffba51ccde-thumbnail.jpg" height="960" width="555" alt="kids" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/d9a26a8e18568cff6cf4c9ffba51ccde-thumbnail.jpg" height="960" width="555" alt="kids" >
       </a>
       <figcaption>standing</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/dominic.jpg" data-size="1024x1280">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/dominic-thumbnail.jpg" height="960" width="768" alt="victory" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/dominic-thumbnail.jpg" height="960" width="768" alt="victory" >
       </a>
       <figcaption>for ours</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/senatorromney_1661538647_1.jpg" data-size="1440x1302">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/senatorromney_1661538647_1-thumbnail.jpg" height="694" width="768" alt="senator" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/senatorromney_1661538647_1-thumbnail.jpg" height="694" width="768" alt="senator" >
       </a>
       <figcaption>me.et rome ney</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/shun_shun821_1662461977.jpg" data-size="1440x1800">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/shun_shun821_1662461977-thumbnail.jpg" height="960" width="768" alt="transformerc" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/shun_shun821_1662461977-thumbnail.jpg" height="960" width="768" alt="transformerc" >
       </a>
       <figcaption>capitan</figcaption>
     </figure>
@@ -137,27 +139,27 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/152754356_2583948591903960_5472709003745722041_n.jpg" data-size="640x640">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/152754356_2583948591903960_5472709003745722041_n-thumbnail.jpg" height="640" width="640" alt="" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/152754356_2583948591903960_5472709003745722041_n-thumbnail.jpg" height="640" width="640" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/153113503_1106303966475361_7849994646048427782_n.jpg" data-size="1080x1080">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/153113503_1106303966475361_7849994646048427782_n-thumbnail.jpg" height="768" width="768" alt="" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/153113503_1106303966475361_7849994646048427782_n-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       <figcaption>for mother</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/roman_shenzhen_1662817012.jpg" data-size="1440x1800">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/roman_shenzhen_1662817012-thumbnail.jpg" height="960" width="768" alt="" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/roman_shenzhen_1662817012-thumbnail.jpg" height="960" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/311523853_795797018300086_3705921167530201753_n.jpg" data-size="1287x965">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/311523853_795797018300086_3705921167530201753_n-thumbnail.jpg" height="576" width="768" alt="so" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/311523853_795797018300086_3705921167530201753_n-thumbnail.jpg" height="576" width="768" alt="so" >
       </a>
       <figcaption>inam</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/313092931_1172629616996233_6304378197765274695_n.jpg" data-size="1080x1350">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/313092931_1172629616996233_6304378197765274695_n-thumbnail.jpg" height="960" width="768" alt="before" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/313092931_1172629616996233_6304378197765274695_n-thumbnail.jpg" height="960" width="768" alt="before" >
       </a>
       <figcaption>now</figcaption>
     </figure>
@@ -172,7 +174,7 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/6/gallery/313191587_885229269303697_2585958940627287754_n.jpg" data-size="1440x1797">
-        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/313191587_885229269303697_2585958940627287754_n-thumbnail.jpg" height="958" width="768" alt="to" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/313191587_885229269303697_2585958940627287754_n-thumbnail.jpg" height="958" width="768" alt="to" >
       </a>
       <figcaption>vi</figcaption>
     </figure>
@@ -192,6 +194,7 @@
         </author>
         <link href="https://bmw.llc/time/"/>
         <id>https://bmw.llc/time/</id>
+        <media:content url="https://bmw.llc/media/posts/4/160040904_527494688221382_1411636069279295395_n.jpg" medium="image" />
 
         <updated>2022-11-08T10:47:09+03:30</updated>
             <summary>
@@ -202,7 +205,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/4/160040904_527494688221382_1411636069279295395_n.jpg" alt="time" />
+                    <p><img src="https://bmw.llc/media/posts/4/160040904_527494688221382_1411636069279295395_n.jpg" class="type:primaryImage" alt="time" /></p>
                 
     <h4 id="----------" class="align-center">
       إِنَّ السَّاعَةَ آتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَى كُلُّ نَفْسٍ بِمَا تَسْعَى 
@@ -239,6 +242,7 @@
         </author>
         <link href="https://bmw.llc/ask/"/>
         <id>https://bmw.llc/ask/</id>
+        <media:content url="https://bmw.llc/media/posts/1/e78e935618c3c852e463c0a9a56a8a8c81d94df9_1657348051.jpg" medium="image" />
 
         <updated>2022-11-08T10:48:38+03:30</updated>
             <summary>
@@ -249,7 +253,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/1/e78e935618c3c852e463c0a9a56a8a8c81d94df9_1657348051.jpg" alt="" />
+                    <p><img src="https://bmw.llc/media/posts/1/e78e935618c3c852e463c0a9a56a8a8c81d94df9_1657348051.jpg" class="type:primaryImage" alt="" /></p>
                 <p>به دلیل فشارهای روانی وارده از دو طرف درگیر، بنده هیچگونه مسؤولیتی در قبال حرفهای حقی که منتشر می شود<br>ندارم لطفا مسائل خود را جای دیگر پیگیری بفرمائید
  البته بیشتر این ابرازات ناخواسته به خاطر بسته بودن ارتباط در کانالهای مجاز صورت می گیرد و در نتیجه ما نمی 
  توانیم کنترل متعادل خود را به عهده بگیریم
@@ -266,8 +270,9 @@
         </author>
         <link href="https://bmw.llc/cama/"/>
         <id>https://bmw.llc/cama/</id>
+        <media:content url="https://bmw.llc/media/posts/9/311151493_185908233946877_5839269501543219569_n.jpg" medium="image" />
 
-        <updated>2022-11-08T11:32:54+03:30</updated>
+        <updated>2022-11-09T06:36:22+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/9/311151493_185908233946877_5839269501543219569_n.jpg" alt="" />
@@ -276,7 +281,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/9/311151493_185908233946877_5839269501543219569_n.jpg" alt="" />
+                    <p><img src="https://bmw.llc/media/posts/9/311151493_185908233946877_5839269501543219569_n.jpg" class="type:primaryImage" alt="" /></p>
                 <h2 class="align-center">وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا</h2>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/260923042_226100839577835_8947127760993239046_n.jpg" data-size="720x720"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/260923042_226100839577835_8947127760993239046_n-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
@@ -294,6 +299,7 @@
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/311878021_644010334050768_2677751566571911677_n.jpg" data-size="512x339"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/311878021_644010334050768_2677751566571911677_n-thumbnail.jpg" alt="" width="512" height="339"></a>
 <figcaption>in no time</figcaption>
 </figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/314605877_1768311936886069_5296835912852740293_n.jpg" data-size="540x960"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/314605877_1768311936886069_5296835912852740293_n-thumbnail.jpg" alt="" width="540" height="960"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/314449912_1288686935317159_4403179505674283329_n.jpeg" data-size="1080x1080"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/314449912_1288686935317159_4403179505674283329_n-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/312239162_650845703338659_970801482376764183_n-2.jpg" data-size="1079x979"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/312239162_650845703338659_970801482376764183_n-2-thumbnail.jpg" alt="" width="768" height="697"></a>
 <figcaption>relax</figcaption>
@@ -310,24 +316,25 @@
         </content>
     </entry>
     <entry>
-        <title>Work for him</title>
+        <title>Work for my brand</title>
         <author>
             <name>sam</name>
         </author>
         <link href="https://bmw.llc/im/"/>
         <id>https://bmw.llc/im/</id>
+        <media:content url="https://bmw.llc/media/posts/11/photo_2020-08-26-15.14.10.png" medium="image" />
 
-        <updated>2022-10-27T19:24:33+03:30</updated>
+        <updated>2022-11-10T07:42:17+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/11/photo_2020-08-26-15.14.10.png" alt="" />
-                     include saman ghiasi royalty the man www.کام.com bm We look to all brands in the world to feature&hellip;
+                     included in the waitlist: saman ghiasi royalty the man bm www.کام.com We look to all brands in the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/11/photo_2020-08-26-15.14.10.png" alt="" />
-                <h5> include </h5>
+                    <p><img src="https://bmw.llc/media/posts/11/photo_2020-08-26-15.14.10.png" class="type:primaryImage" alt="" /></p>
+                <h5> included in the waitlist:</h5>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/riku_redpanda316_1660544382_1.jpg" data-size="1440x1800"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/riku_redpanda316_1660544382_1-thumbnail.jpg" alt="riku" width="768" height="960"></a>
 <figcaption>saman ghiasi</figcaption>
@@ -335,17 +342,23 @@
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/lucas.dean.royalty_2900612562783347967_1651216042.jpg" data-size="1125x2000"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/lucas.dean.royalty_2900612562783347967_1651216042-thumbnail.jpg" alt="lucas" width="768" height="1365"></a>
 <figcaption>royalty</figcaption>
 </figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/masha.mitya_1667912730.jpg" data-size="937x1171"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/masha.mitya_1667912730-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/photo_5854803477383986046_w.jpg" data-size="1080x1350"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/photo_5854803477383986046_w-thumbnail.jpg" alt="mylo" width="768" height="960"></a>
 <figcaption>the man</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/johnny.jpg" data-size="1128x2048"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/johnny-thumbnail.jpg" alt="show" width="768" height="1394"></a>
-<figcaption>www.کام.com</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/312062638_430507939239946_2978023726466204097_n.jpg" data-size="935x935"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/312062638_430507939239946_2978023726466204097_n-thumbnail.jpg" alt="" width="768" height="768"></a>
 <figcaption>bm</figcaption>
 </figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/johnny.jpg" data-size="1128x2048"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/johnny-thumbnail.jpg" alt="show" width="768" height="1394"></a>
+<figcaption>www.کام.com</figcaption>
+</figure>
 </div></div>
 <p>We look to all brands in the world to feature us using this logo and then we can have models showing our name also the god want us to be united and this is for it</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/314220298_474664384644976_7431309539394965685_n.jpg" data-size="1440x1800"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/314220298_474664384644976_7431309539394965685_n-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/315101843_851446095883271_3373721818650867541_n.jpeg" data-size="1440x1440"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/315101843_851446095883271_3373721818650867541_n-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/315294848_646584823665656_1977519265579134887_n.jpg" data-size="1440x1800"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/315294848_646584823665656_1977519265579134887_n-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+</div></div>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -360,6 +373,7 @@
         </author>
         <link href="https://bmw.llc/please/"/>
         <id>https://bmw.llc/please/</id>
+        <media:content url="https://bmw.llc/media/posts/10/312027373_3445752715708510_7761073224937705682_n.jpeg" medium="image" />
 
         <updated>2022-11-02T20:26:36+03:30</updated>
             <summary>
@@ -370,7 +384,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/10/312027373_3445752715708510_7761073224937705682_n.jpeg" alt="" />
+                    <p><img src="https://bmw.llc/media/posts/10/312027373_3445752715708510_7761073224937705682_n.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Take a trip to ***to see me or find a way to join me in another way</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/10/gallery/photo_2020-07-25-07.17.39.jpg" data-size="666x1280"><img loading="lazy" src="https://bmw.llc/media/posts/10/gallery/photo_2020-07-25-07.17.39-thumbnail.jpg" alt="r abdollahi" width="666" height="1280"></a>
@@ -391,6 +405,7 @@
         </author>
         <link href="https://bmw.llc/done/"/>
         <id>https://bmw.llc/done/</id>
+        <media:content url="https://bmw.llc/media/posts/8/272120521_308875481260136_3247862464476444093_n.jpg" medium="image" />
 
         <updated>2022-11-08T10:50:00+03:30</updated>
             <summary>
@@ -401,7 +416,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/8/272120521_308875481260136_3247862464476444093_n.jpg" alt="" />
+                    <p><img src="https://bmw.llc/media/posts/8/272120521_308875481260136_3247862464476444093_n.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Add credit for me in my account of your own shop so that i can see goods to you and buy from you what wanted and achieve point (for those companies which want me to sell sth but i can't)</p>
             ]]>
         </content>
@@ -413,6 +428,7 @@
         </author>
         <link href="https://bmw.llc/isay/"/>
         <id>https://bmw.llc/isay/</id>
+        <media:content url="https://bmw.llc/media/posts/7/_1660646752_1.jpg" medium="image" />
 
         <updated>2022-11-08T11:13:02+03:30</updated>
             <summary>
@@ -423,7 +439,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/7/_1660646752_1.jpg" alt="we know what he say" />
+                    <p><img src="https://bmw.llc/media/posts/7/_1660646752_1.jpg" class="type:primaryImage" alt="we know what he say" /></p>
                 
     <h5 id="-------------------------------" class="align-center">
       وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا  
@@ -433,32 +449,32 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/7/gallery/7e965879d36525b837c7f6b90352dd30.jpg" data-size="1170x1176">
-        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/7e965879d36525b837c7f6b90352dd30-thumbnail.jpg" height="772" width="768" alt="hi" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/7e965879d36525b837c7f6b90352dd30-thumbnail.jpg" height="772" width="768" alt="hi" >
       </a>
       <figcaption>meh</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/7/gallery/61d78535712e78d81e8680caa0792a1f.jpg" data-size="736x1099">
-        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/61d78535712e78d81e8680caa0792a1f-thumbnail.jpg" height="1099" width="736" alt="dad" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/61d78535712e78d81e8680caa0792a1f-thumbnail.jpg" height="1099" width="736" alt="dad" >
       </a>
       <figcaption>mi</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/7/gallery/O_JGtYlFCEs.jpg" data-size="810x1080">
-        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/O_JGtYlFCEs-thumbnail.jpg" height="1024" width="768" alt="denim" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/O_JGtYlFCEs-thumbnail.jpg" height="1024" width="768" alt="denim" >
       </a>
       <figcaption>fathi</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/7/gallery/photo_2020-09-20-22.40.34.jpg" data-size="1080x1080">
-        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/photo_2020-09-20-22.40.34-thumbnail.jpg" height="768" width="768" alt="yea" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/photo_2020-09-20-22.40.34-thumbnail.jpg" height="768" width="768" alt="yea" >
       </a>
       <figcaption>bima</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/7/gallery/photo_2020-08-04-06.54.57.jpg" data-size="1056x1056">
-        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/photo_2020-08-04-06.54.57-thumbnail.jpg" height="768" width="768" alt="moscow" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/photo_2020-08-04-06.54.57-thumbnail.jpg" height="768" width="768" alt="moscow" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/7/gallery/denis.jpg" data-size="1080x1349">
-        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/denis-thumbnail.jpg" height="959" width="768" alt="father" />
+        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/denis-thumbnail.jpg" height="959" width="768" alt="father" >
       </a>
       <figcaption>law</figcaption>
     </figure>
@@ -482,6 +498,7 @@
         </author>
         <link href="https://bmw.llc/arad-javaheri-nik/"/>
         <id>https://bmw.llc/arad-javaheri-nik/</id>
+        <media:content url="https://bmw.llc/media/posts/5/Ari-joon.jpg" medium="image" />
 
         <updated>2022-11-08T18:45:03+03:30</updated>
             <summary>
@@ -492,7 +509,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bmw.llc/media/posts/5/Ari-joon.jpg" alt="" />
+                    <p><img src="https://bmw.llc/media/posts/5/Ari-joon.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h4 id="yournamebmuunet-or-bmuunetyourname">
       Yourname.bmuu.net or bmuu.net/yourname
