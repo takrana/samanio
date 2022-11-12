@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-11T02:33:43+03:30</updated>
+    <updated>2022-11-12T05:39:13+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -48,7 +48,7 @@
         <id>https://bmw.llc/nom/</id>
         <media:content url="https://bmw.llc/media/posts/6/313887867_1539058449848758_5356790908052224658_n.jpg" medium="image" />
 
-        <updated>2022-11-11T02:33:43+03:30</updated>
+        <updated>2022-11-12T05:39:13+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/6/313887867_1539058449848758_5356790908052224658_n.jpg" alt="" />
@@ -131,6 +131,11 @@
         <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/senatorromney_1661538647_1-thumbnail.jpg" height="694" width="768" alt="senator" >
       </a>
       <figcaption>me.et rome ney</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://bmw.llc/media/posts/6/gallery/masha.mitya_1667024280_1.jpg" data-size="1440x1791">
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/masha.mitya_1667024280_1-thumbnail.jpg" height="955" width="768" alt="" >
+      </a>
+      
     </figure>
     </div>
   </div>
@@ -166,6 +171,11 @@
         <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/313092931_1172629616996233_6304378197765274695_n-thumbnail.jpg" height="960" width="768" alt="before" >
       </a>
       <figcaption>now</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://bmw.llc/media/posts/6/gallery/photo_5783119120299046778_y.jpg" data-size="1080x1279">
+        <img loading="lazy" src="https://bmw.llc/media/posts/6/gallery/photo_5783119120299046778_y-thumbnail.jpg" height="910" width="768" alt="" >
+      </a>
+      
     </figure>
     </div>
   </div>
@@ -256,17 +266,19 @@
         <id>https://bmw.llc/ask/</id>
         <media:content url="https://bmw.llc/media/posts/1/e78e935618c3c852e463c0a9a56a8a8c81d94df9_1657348051.jpg" medium="image" />
 
-        <updated>2022-11-11T00:45:56+03:30</updated>
+        <updated>2022-11-11T03:02:00+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/1/e78e935618c3c852e463c0a9a56a8a8c81d94df9_1657348051.jpg" alt="" />
-                    به دلیل فشارهای روانی وارده از دو طرف درگیر، بنده هیچگونه مسؤولیتی در قبال حرفهای حقی که منتشر&hellip;
+                    ای مأمون تو باز هم اشتباه کردی و داستان کایوت و رودرانر به دلیل فشارهای روانی وارده از&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://bmw.llc/media/posts/1/e78e935618c3c852e463c0a9a56a8a8c81d94df9_1657348051.jpg" class="type:primaryImage" alt="" /></p>
-                <p>به دلیل فشارهای روانی وارده از دو طرف درگیر، بنده هیچگونه مسؤولیتی در قبال حرفهای حقی که منتشر می شود<br>ندارم لطفا مسائل خود را جای دیگر پیگیری بفرمائید
+                <p>ای مأمون تو باز هم اشتباه کردی و داستان کایوت و رودرانر
+به دلیل فشارهای روانی وارده از دو طرف درگیر، بنده هیچگونه مسؤولیتی در قبال حرفهای حقی که منتشر می شود
+ندارم لطفا مسائل خود را جای دیگر پیگیری بفرمائید
  البته بیشتر این ابرازات ناخواسته به خاطر بسته بودن ارتباط در کانالهای مجاز صورت می گیرد و در نتیجه ما نمی 
  توانیم کنترل متعادل خود را به عهده بگیریم
  با تشکر از کسانی که عکس قبلی را متحمل شدند مشکلاتی که ما داریم توسط بخش خصوصی به وجود می آیند
@@ -337,7 +349,7 @@
         <id>https://bmw.llc/im/</id>
         <media:content url="https://bmw.llc/media/posts/11/photo_2020-08-26-15.14.10.png" medium="image" />
 
-        <updated>2022-11-10T08:38:38+03:30</updated>
+        <updated>2022-11-12T05:37:26+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/11/photo_2020-08-26-15.14.10.png" alt="" />
@@ -363,9 +375,6 @@
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/312062638_430507939239946_2978023726466204097_n.jpg" data-size="935x935"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/312062638_430507939239946_2978023726466204097_n-thumbnail.jpg" alt="" width="768" height="768"></a>
 <figcaption>bm</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/johnny.jpg" data-size="1128x2048"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/johnny-thumbnail.jpg" alt="show" width="768" height="1394"></a>
-<figcaption>www.کام.com</figcaption>
-</figure>
 </div></div>
 <p>We look to all brands in the world to feature us using this logo and then we can have models showing our name also the god want us to be united and this is for it</p>
 <p>supporting brand</p>
@@ -373,6 +382,7 @@
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/314220298_474664384644976_7431309539394965685_n.jpg" data-size="1440x1800"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/314220298_474664384644976_7431309539394965685_n-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/315101843_851446095883271_3373721818650867541_n.jpeg" data-size="1440x1440"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/315101843_851446095883271_3373721818650867541_n-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/315294848_646584823665656_1977519265579134887_n.jpg" data-size="1440x1800"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/315294848_646584823665656_1977519265579134887_n-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/11/gallery/314743535_538956818051295_3684095257898896389_n.jpeg" data-size="1080x1350"><img loading="lazy" src="https://bmw.llc/media/posts/11/gallery/314743535_538956818051295_3684095257898896389_n-thumbnail.jpeg" alt="" width="768" height="960"></a></figure>
 </div></div>
 <p> </p>
 <p> </p>
