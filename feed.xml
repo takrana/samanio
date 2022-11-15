@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-15T01:11:15+03:30</updated>
+    <updated>2022-11-15T01:18:38+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -430,17 +430,17 @@
         <id>https://bmw.llc/done/</id>
         <media:content url="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" medium="image" />
 
-        <updated>2022-11-15T01:11:15+03:30</updated>
+        <updated>2022-11-15T01:18:38+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" alt="" />
-                    sponsorship + helping me
+                    sponsorship + affiliate
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" class="type:primaryImage" alt="" /></p>
-                <p>sponsorship + helping me</p>
+                <p>sponsorship + affiliate</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
             ]]>
         </content>

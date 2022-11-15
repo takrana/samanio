@@ -119,8 +119,8 @@
             "id": "https://bmw.llc/done/",
             "url": "https://bmw.llc/done/",
             "title": "advertisement",
-            "summary": "sponsorship + helping me",
-            "content_html": "<p>sponsorship + helping me</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>",
+            "summary": "sponsorship + affiliate",
+            "content_html": "<p>sponsorship + affiliate</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>",
             "image": "https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg",
             "author": {
                 "name": "sam"
@@ -128,7 +128,7 @@
             "tags": [
             ],
             "date_published": "2022-07-24T06:56:11+04:30",
-            "date_modified": "2022-11-15T01:11:15+03:30"
+            "date_modified": "2022-11-15T01:18:38+03:30"
         },
         {
             "id": "https://bmw.llc/isay/",
