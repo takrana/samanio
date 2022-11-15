@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-15T01:25:52+03:30</updated>
+    <updated>2022-11-15T02:10:56+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -280,7 +280,7 @@
         </content>
     </entry>
     <entry>
-        <title>Work for my brand</title>
+        <title>Work </title>
         <author>
             <name>sam</name>
         </author>
@@ -288,7 +288,7 @@
         <id>https://bmw.llc/im/</id>
         <media:content url="https://bmw.llc/media/posts/11/photo_2020-08-26-15.14.10.png" medium="image" />
 
-        <updated>2022-11-12T15:55:49+03:30</updated>
+        <updated>2022-11-15T02:08:57+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/11/photo_2020-08-26-15.14.10.png" alt="" />
@@ -366,7 +366,7 @@
         </content>
     </entry>
     <entry>
-        <title>advertisement</title>
+        <title>Brand</title>
         <author>
             <name>sam</name>
         </author>
@@ -374,17 +374,19 @@
         <id>https://bmw.llc/done/</id>
         <media:content url="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" medium="image" />
 
-        <updated>2022-11-15T01:23:48+03:30</updated>
+        <updated>2022-11-15T02:10:56+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" alt="" />
-                    sponsorship + affiliate
+                    Ads Sponsor Affiliate
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" class="type:primaryImage" alt="" /></p>
-                <p>sponsorship + affiliate</p>
+                <h4>Ads</h4>
+<h4>Sponsor</h4>
+<h4>Affiliate</h4>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
             ]]>
         </content>
