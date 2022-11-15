@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-15T02:10:56+03:30</updated>
+    <updated>2022-11-15T02:30:08+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -374,7 +374,7 @@
         <id>https://bmw.llc/done/</id>
         <media:content url="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" medium="image" />
 
-        <updated>2022-11-15T02:10:56+03:30</updated>
+        <updated>2022-11-15T02:30:08+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" alt="" />
@@ -387,6 +387,7 @@
                 <h4>Ads</h4>
 <h4>Sponsor</h4>
 <h4>Affiliate</h4>
+<p> <a href="https://www.digitalocean.com/?refcode=64842c03cc8d&amp;utm_campaign=Referral_Invite&amp;utm_medium=Referral_Program&amp;utm_source=badge"><img loading="lazy" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" data-is-external-image="true"></a></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
             ]]>
         </content>
