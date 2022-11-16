@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-15T06:12:38+03:30</updated>
+    <updated>2022-11-16T04:03:27+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -234,7 +234,7 @@
         <id>https://bmw.llc/cama/</id>
         <media:content url="https://bmw.llc/media/posts/9/311151493_185908233946877_5839269501543219569_n.jpg" medium="image" />
 
-        <updated>2022-11-13T03:05:57+03:30</updated>
+        <updated>2022-11-16T03:58:07+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/9/311151493_185908233946877_5839269501543219569_n.jpg" alt="" />
@@ -264,10 +264,11 @@
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/314605877_1768311936886069_5296835912852740293_n.jpg" data-size="540x960"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/314605877_1768311936886069_5296835912852740293_n-thumbnail.jpg" alt="" width="540" height="960"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/artemn2010_1615227756.jpg" data-size="1440x753"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/artemn2010_1615227756-thumbnail.jpg" alt="" width="768" height="402"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/315011742_1264987834345448_1679813164533282394_n.jpeg" data-size="1440x1800"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/315011742_1264987834345448_1679813164533282394_n-thumbnail.jpeg" alt="" width="768" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/314449912_1288686935317159_4403179505674283329_n.jpeg" data-size="1080x1080"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/314449912_1288686935317159_4403179505674283329_n-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/312239162_650845703338659_970801482376764183_n-2.jpg" data-size="1079x979"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/312239162_650845703338659_970801482376764183_n-2-thumbnail.jpg" alt="" width="768" height="697"></a>
 <figcaption>relax</figcaption>
 </figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/315458649_2317273388439828_1193063792882876036_n.jpeg" data-size="1080x1080"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/315458649_2317273388439828_1193063792882876036_n-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://bmw.llc/media/posts/9/gallery/314449912_1288686935317159_4403179505674283329_n.jpeg" data-size="1080x1080"><img loading="lazy" src="https://bmw.llc/media/posts/9/gallery/314449912_1288686935317159_4403179505674283329_n-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
 </div></div>
 <div class="main__right feed">
 <article class="feed__item"><header></header></article>
@@ -394,7 +395,7 @@
         </content>
     </entry>
     <entry>
-        <title>Say god</title>
+        <title>Say god!</title>
         <author>
             <name>sam</name>
         </author>
@@ -402,7 +403,7 @@
         <id>https://bmw.llc/isay/</id>
         <media:content url="https://bmw.llc/media/posts/7/_1660646752_1.jpg" medium="image" />
 
-        <updated>2022-11-13T03:06:10+03:30</updated>
+        <updated>2022-11-16T04:03:27+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/7/_1660646752_1.jpg" alt="we know what he say" />
