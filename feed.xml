@@ -3,16 +3,16 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-16T04:12:26+03:30</updated>
+    <updated>2022-11-16T04:21:03+03:30</updated>
     <author>
-        <name>sam</name>
+        <name>Sam</name>
     </author>
     <id>https://bmw.llc</id>
 
     <entry>
         <title>Universal BoyModel</title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/links/"/>
         <id>https://bmw.llc/links/</id>
@@ -40,15 +40,15 @@
         </content>
     </entry>
     <entry>
-        <title>FSP</title>
+        <title>Free Server Pose</title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/nom/"/>
         <id>https://bmw.llc/nom/</id>
         <media:content url="https://bmw.llc/media/posts/6/d9a26a8e18568cff6cf4c9ffba51ccde.jpg" medium="image" />
 
-        <updated>2022-11-15T01:01:50+03:30</updated>
+        <updated>2022-11-16T04:21:03+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/6/d9a26a8e18568cff6cf4c9ffba51ccde.jpg" alt="" />
@@ -204,7 +204,7 @@
     <entry>
         <title>woman alone life</title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/ask/"/>
         <id>https://bmw.llc/ask/</id>
@@ -228,7 +228,7 @@
     <entry>
         <title>Reset</title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/cama/"/>
         <id>https://bmw.llc/cama/</id>
@@ -283,7 +283,7 @@
     <entry>
         <title>Work </title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/im/"/>
         <id>https://bmw.llc/im/</id>
@@ -337,7 +337,7 @@
     <entry>
         <title>Invite welcome</title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/please/"/>
         <id>https://bmw.llc/please/</id>
@@ -369,7 +369,7 @@
     <entry>
         <title>Brand</title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/done/"/>
         <id>https://bmw.llc/done/</id>
@@ -397,7 +397,7 @@
     <entry>
         <title>Say god!</title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/isay/"/>
         <id>https://bmw.llc/isay/</id>
@@ -467,7 +467,7 @@
     <entry>
         <title>Model official site </title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/arad-javaheri-nik/"/>
         <id>https://bmw.llc/arad-javaheri-nik/</id>
@@ -513,7 +513,7 @@
     <entry>
         <title>Kids fashion clothes</title>
         <author>
-            <name>sam</name>
+            <name>Sam</name>
         </author>
         <link href="https://bmw.llc/fashion/"/>
         <id>https://bmw.llc/fashion/</id>
