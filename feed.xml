@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-16T04:03:27+03:30</updated>
+    <updated>2022-11-16T04:12:26+03:30</updated>
     <author>
         <name>sam</name>
     </author>
@@ -335,7 +335,7 @@
         </content>
     </entry>
     <entry>
-        <title>Welcome/invite</title>
+        <title>Invite welcome</title>
         <author>
             <name>sam</name>
         </author>
@@ -343,7 +343,7 @@
         <id>https://bmw.llc/please/</id>
         <media:content url="https://bmw.llc/media/posts/10/312027373_3445752715708510_7761073224937705682_n.jpeg" medium="image" />
 
-        <updated>2022-11-10T23:27:37+03:30</updated>
+        <updated>2022-11-16T04:12:26+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/10/312027373_3445752715708510_7761073224937705682_n.jpeg" alt="" />
@@ -465,7 +465,7 @@
         </content>
     </entry>
     <entry>
-        <title>A sample model site </title>
+        <title>Model official site </title>
         <author>
             <name>sam</name>
         </author>
@@ -473,7 +473,7 @@
         <id>https://bmw.llc/arad-javaheri-nik/</id>
         <media:content url="https://bmw.llc/media/posts/5/Ari-joon.jpg" medium="image" />
 
-        <updated>2022-11-10T15:23:32+03:30</updated>
+        <updated>2022-11-16T04:11:46+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/5/Ari-joon.jpg" alt="" />
