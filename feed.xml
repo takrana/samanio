@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-16T04:21:03+03:30</updated>
+    <updated>2022-11-18T04:03:18+03:30</updated>
     <author>
         <name>Sam</name>
     </author>
@@ -48,7 +48,7 @@
         <id>https://bmw.llc/nom/</id>
         <media:content url="https://bmw.llc/media/posts/6/d9a26a8e18568cff6cf4c9ffba51ccde.jpg" medium="image" />
 
-        <updated>2022-11-16T04:21:03+03:30</updated>
+        <updated>2022-11-18T03:59:07+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/6/d9a26a8e18568cff6cf4c9ffba51ccde.jpg" alt="" />
@@ -76,7 +76,7 @@
   </p>
 
   <p>
-    2)a bluetooth shutter in the trigger
+    2)A bluetooth shutter in the trigger
   </p>
 
   <p>
@@ -465,7 +465,7 @@
         </content>
     </entry>
     <entry>
-        <title>Model official site </title>
+        <title>Medical site </title>
         <author>
             <name>Sam</name>
         </author>
@@ -473,7 +473,7 @@
         <id>https://bmw.llc/arad-javaheri-nik/</id>
         <media:content url="https://bmw.llc/media/posts/5/Ari-joon.jpg" medium="image" />
 
-        <updated>2022-11-16T04:11:46+03:30</updated>
+        <updated>2022-11-18T04:03:18+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/5/Ari-joon.jpg" alt="" />
@@ -506,6 +506,10 @@
 
   <p>
     we look forward to customers after acquiring a license from global registry
+  </p>
+
+  <p>
+    
   </p>
             ]]>
         </content>
