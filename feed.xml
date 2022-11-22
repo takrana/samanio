@@ -3,7 +3,7 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-22T05:18:59+03:30</updated>
+    <updated>2022-11-22T19:25:39+03:30</updated>
     <author>
         <name>Sam</name>
     </author>
@@ -48,7 +48,7 @@
         <id>https://bmw.llc/nom/</id>
         <media:content url="https://bmw.llc/media/posts/6/d9a26a8e18568cff6cf4c9ffba51ccde.jpg" medium="image" />
 
-        <updated>2022-11-18T03:59:07+03:30</updated>
+        <updated>2022-11-22T18:18:35+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/6/d9a26a8e18568cff6cf4c9ffba51ccde.jpg" alt="" />
@@ -76,7 +76,7 @@
   </p>
 
   <p>
-    2)A bluetooth shutter in the trigger
+    2)A bluetooth shutter on the trigger
   </p>
 
   <p>
@@ -410,18 +410,18 @@
         </author>
         <link href="https://bmw.llc/isay/"/>
         <id>https://bmw.llc/isay/</id>
-        <media:content url="https://bmw.llc/media/posts/7/_1660646752_1.jpg" medium="image" />
+        <media:content url="https://bmw.llc/media/posts/7/roskin_daniil_1669131057_2.jpg" medium="image" />
 
-        <updated>2022-11-16T04:03:27+03:30</updated>
+        <updated>2022-11-22T19:25:39+03:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://bmw.llc/media/posts/7/_1660646752_1.jpg" alt="we know what he say" />
+                        <img src="https://bmw.llc/media/posts/7/roskin_daniil_1669131057_2.jpg" alt="we know what he say" />
                     وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://bmw.llc/media/posts/7/_1660646752_1.jpg" class="type:primaryImage" alt="we know what he say" /></p>
+                    <p><img src="https://bmw.llc/media/posts/7/roskin_daniil_1669131057_2.jpg" class="type:primaryImage" alt="we know what he say" /></p>
                 
     <h5 id="-------------------------------" class="align-center">
       وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُمْ بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَاةِ الدُّنْيَا وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوَاهُ وَكَانَ أَمْرُهُ فُرُطًا  
@@ -430,15 +430,15 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
+      <a href="https://bmw.llc/media/posts/7/gallery/_1660646752_1-2.jpg" data-size="1440x1440">
+        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/_1660646752_1-2-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/7/gallery/O_JGtYlFCEs.jpg" data-size="810x1080">
         <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/O_JGtYlFCEs-thumbnail.jpg" height="1024" width="768" alt="denim" >
       </a>
       <figcaption>fathi</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://bmw.llc/media/posts/7/gallery/7e965879d36525b837c7f6b90352dd30.jpg" data-size="1170x1176">
-        <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/7e965879d36525b837c7f6b90352dd30-thumbnail.jpg" height="772" width="768" alt="hi" >
-      </a>
-      <figcaption>meh</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://bmw.llc/media/posts/7/gallery/photo_2020-09-20-22.40.34.jpg" data-size="1080x1080">
         <img loading="lazy" src="https://bmw.llc/media/posts/7/gallery/photo_2020-09-20-22.40.34-thumbnail.jpg" height="768" width="768" alt="yea" >
