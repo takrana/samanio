@@ -3,12 +3,45 @@
     <title>BMW</title>
     <link href="https://bmw.llc/feed.xml" rel="self" />
     <link href="https://bmw.llc" />
-    <updated>2022-11-22T19:53:17+03:30</updated>
+    <updated>2022-11-23T06:40:36+03:30</updated>
     <author>
         <name>Sam</name>
     </author>
     <id>https://bmw.llc</id>
 
+    <entry>
+        <title>women life</title>
+        <author>
+            <name>Sam</name>
+        </author>
+        <link href="https://bmw.llc/women-life/"/>
+        <id>https://bmw.llc/women-life/</id>
+        <media:content url="https://bmw.llc/media/posts/13/eunchan2013_1668218751_6.jpg" medium="image" />
+
+        <updated>2022-11-23T06:40:36+03:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://bmw.llc/media/posts/13/eunchan2013_1668218751_6.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://bmw.llc/media/posts/13/gallery/cesar_davidmh_1668734229_2.jpg" data-size="1440x1439">
+        <img loading="lazy" src="https://bmw.llc/media/posts/13/gallery/cesar_davidmh_1668734229_2-thumbnail.jpg" height="767" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://bmw.llc/media/posts/13/gallery/Twitch-HomepageH-190ae3b8-fa3e-4b6f-a91c-c7ab470fff1f._CBnull_-2022_05_27-08_39_37-UTC.jpg" data-size="450x350">
+        <img loading="lazy" src="https://bmw.llc/media/posts/13/gallery/Twitch-HomepageH-190ae3b8-fa3e-4b6f-a91c-c7ab470fff1f._CBnull_-2022_05_27-08_39_37-UTC-thumbnail.jpg" height="350" width="450" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Universal BoyModel</title>
         <author>
@@ -202,30 +235,6 @@
         </content>
     </entry>
     <entry>
-        <title>woman alone life</title>
-        <author>
-            <name>Sam</name>
-        </author>
-        <link href="https://bmw.llc/ask/"/>
-        <id>https://bmw.llc/ask/</id>
-        <media:content url="https://bmw.llc/media/posts/1/e78e935618c3c852e463c0a9a56a8a8c81d94df9_1657348051.jpg" medium="image" />
-
-        <updated>2022-11-14T14:02:22+03:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://bmw.llc/media/posts/1/e78e935618c3c852e463c0a9a56a8a8c81d94df9_1657348051.jpg" alt="" />
-                    the system goes wrong everytime i want to start sth so it is real and we need improvement&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://bmw.llc/media/posts/1/e78e935618c3c852e463c0a9a56a8a8c81d94df9_1657348051.jpg" class="type:primaryImage" alt="" /></p>
-                <p>the system goes wrong everytime i want to start sth so it is real and we need improvement on the daily basis thanks bye</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Reset</title>
         <author>
             <name>Sam</name>
@@ -370,7 +379,7 @@
         </content>
     </entry>
     <entry>
-        <title>Brand</title>
+        <title>Brands</title>
         <author>
             <name>Sam</name>
         </author>
@@ -378,7 +387,7 @@
         <id>https://bmw.llc/done/</id>
         <media:content url="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" medium="image" />
 
-        <updated>2022-11-22T05:18:59+03:30</updated>
+        <updated>2022-11-23T04:08:58+03:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bmw.llc/media/posts/8/johnnyfox_oficial_1667870474.jpg" alt="" />
